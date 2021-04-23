@@ -1,5 +1,5 @@
 # Disease Prediction Project
-A Disease Prediction tool to easily detect the problem that a person is facing by analyzing the symptoms. It works on Neural Network created using Keras. Web implementation remaining.
+A Disease Prediction tool to easily detect the problem that a person is facing by analyzing the symptoms. It works on Decision Tree and Neural Network created using Keras. Web implementation remaining.
 
 ## Model Metrics
 * Accuracy: 99/8%
